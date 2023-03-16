@@ -15,3 +15,4 @@
     - Aluno Unimar
     - Dormir no sofa
     - fazer nada
+    - nao saber fazer um commit
