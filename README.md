@@ -13,5 +13,5 @@
 ## Experiência
 
     - Aluno Unimar
-    
-
+    - Dormir no sofa
+    - fazer nada
